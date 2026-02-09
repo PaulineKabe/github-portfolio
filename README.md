@@ -53,6 +53,9 @@ This repository contains hands-on labs and technical exercises:
 
 ---
 
+## 📚 Lab Documentation ##
+- Lab 01: Infrastructure Audit (https://github.com/PaulineKabe/github-portfolio/blob/main/Lab-01.md) - Facebook outage case study and GitHub setup
+
 ## 📫 Connect With Me
 - **GitHub:** @PaulineKabe  
 - **LinkedIn:** https://www.linkedin.com/in/paulinekabambi/
